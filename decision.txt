@@ -1,0 +1,6 @@
+This Project is designed as the Three Layered Entity.
+The Rest Endpoints will be directly interacting the the api.
+The Second Layer will be Service Layer where the Businness Logics are present .
+Third layer is the DAO Layer.
+
+The  5 sec Delay is assigned as per Requirements.

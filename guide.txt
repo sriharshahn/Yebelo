@@ -1,0 +1,14 @@
+In this Demo Project Where the REST API http://localhost:8080/FetchNextNumber/<CategoryCode>
+ get the old value and new Updated Value.
+
+Here In this Project i set the value with reference to the  CategoryCode.
+(Ex: In this Project if we assign the value of the CategoryCode as "1" then the value will be "10"
+and the new Updated value will be 19).
+
+There is a delay of 5 seconds as in the assignment mentioned.
+
+The Video along with commentary will be attched.
+
+In this Project i also attached  database schema also.
+
+
